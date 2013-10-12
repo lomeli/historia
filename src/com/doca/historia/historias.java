@@ -17,7 +17,7 @@ public class historias {
 			
 			"todo iba tan bien que parecia una mentira ",	
 			"ella se encerro en su mundo y el no tenia llave para entrar ",
-			"la pregunta es : de verdad crees que me importa ",
+			"la pregunta es que si de verdad crees que importa ",
 			
 			"quiza soy mas fragil de lo que ven ",
 			"porque les cuesta tanto sonreir ",
@@ -85,14 +85,14 @@ public class historias {
 			"pienso mucho, hablo poco ",
 			
 			"y entonces, sin darte cuenta, te enamoras de las canciones y las esuchas una y otra vez ",
-			"le mire como quien mira algo que queria desde hace tiempo ya. Te extra–e sabias? dije con torpeza ",
+			" mire como quien mira algo que queria desde hace tiempo. te extra–e sabias? dije con torpeza ",
 			"hemos platicado de tantas cosas en mi cabeza ",
 			"llegara cuando olvides que lo querias ",
 			"algun dia, yo lo se ",
 			"le miro bien, pero nunca se que decirle ",
 			"gracias por sonreir, no tienes idea de lo que vale para mi una sonrisa tuya ",
 			"estaremos bien ",
-			"es el - que hubiera pasado si ... - lo que me desvela ",
+			"es el que hubiera pasado si ... lo que me desvela ",
 			"sus acciones valen mas que mil promesas , asi como las tuyas ",
 			
 			

@@ -6,10 +6,7 @@
     <string name="action_about">About</string>
     <string name="hello_world">Hello world!</string>
     <string name="desc">fondo</string>
-    <string name="text_primera">Una Historia de Amor </string>
-    <string name="action_tweetfact">Tweet Your #Fact</string>  
-    
-    
-     
+    <string name="text_primera">momentos de amor </string>
+    <string name="action_tweetfact">Manda tweet con la tuya</string>  
 
 </resources>

@@ -114,7 +114,7 @@ public class MainActivity extends Activity {
             return true;
             
         case R.id.action_tweetfact:
-        	String tweetUrl = "http://twitter.com/intent/tweet?url=&text=%23IWannaSeeMyFact1DApp+SHARE+FACT+HERE";
+        	String tweetUrl = "http://twitter.com/intent/tweet?url=&text=%23MiMomentoAmor+...+";
             //	Log.i(TAG, "click en twitter");
         	//String tweetUrl = "https://twitter.com/intent/tweet?text=PUT FACT HERE &url="
               //      + "https://www.google.com&hashtags=IWannaSeeMyFacts1DApp";
